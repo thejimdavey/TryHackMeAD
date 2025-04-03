@@ -56,15 +56,20 @@ Managing computers in AD:  <br/>
 <br />
 <br />
 Managing Group Policies, in this case minimum password length, screen lock and access to control panel changes for various groups:  <br/>
-<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/53f8abe9-7429-4dd6-acfd-3c5850c96ac5" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/8d0c8f71-ccc7-4797-be35-6745cbb49393" />
-<img width="1436" alt="Image" src="https://github.com/user-attachments/assets/e48276d2-a6ac-4961-b4a0-6b7f0df95bf4" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/2336fa88-b591-4fc7-a895-881b01a271fa" />
-<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/da2b19fb-8976-4368-a6d7-6414b2e3560a" />
-<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/02bdf7f9-9ef8-4aae-9362-213704a0ee6a" />
+<img width="1431" alt="Image" src="https://github.com/user-attachments/assets/a2d801d9-aacc-4a1e-b262-e45b3eb4dc4d" />
+<img width="1435" alt="Image" src="https://github.com/user-attachments/assets/e7960418-5b15-4047-9ed2-2f2dc6b623b9" />
+<img width="1433" alt="Image" src="https://github.com/user-attachments/assets/5a9accbf-ca8e-4edc-9631-7e090ed0dad8" />
+<img width="1431" alt="Image" src="https://github.com/user-attachments/assets/54312218-5fb1-4193-b65e-8094be87fe28" />
+<img width="1429" alt="Image" src="https://github.com/user-attachments/assets/fd903a03-9065-460d-94e6-8256d46f564c" />
+<img width="1431" alt="Image" src="https://github.com/user-attachments/assets/b6718f3f-28e3-4350-917f-74b1e2581a41" />
+<img width="1427" alt="Image" src="https://github.com/user-attachments/assets/bf40dec5-d370-40df-a850-45e2f9361063" />
+<img width="1432" alt="Image" src="https://github.com/user-attachments/assets/29d67fd3-7443-4bce-aeff-ad84416e3392" />
+<img width="1435" alt="Image" src="https://github.com/user-attachments/assets/7ae9a89b-67db-4f30-b61c-4628827e0597" />
+<img width="1434" alt="Image" src="https://github.com/user-attachments/assets/1440ddec-2706-4400-9d29-e3226b95b5fb" />
+<img width="1431" alt="Image" src="https://github.com/user-attachments/assets/ee5e4571-912f-4941-a591-e3c49eebe095" />
 <br />
 <br />
-Connecting devices via Bluetooth, the sound that played was a brief clip of crickets chirping:  <br/>
+Authentication domains; Trees, Forests and Trusts; Conclusion :  <br/>
 <img width="1439" alt="Image" src="https://github.com/user-attachments/assets/eea216aa-3714-4f46-96a0-2aa4d05cb80d" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/f489fd2e-38af-4229-8f5b-7fd3091f5e4e" />
 <br />
