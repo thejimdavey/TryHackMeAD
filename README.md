@@ -1,4 +1,4 @@
-<h1>Exploring Networking with Cisco Packet Tracer</h1>
+<h1>Learning Active Directory Basics with TryHackMe</h1>
 
 <h2>Description</h2>
 In the Active Directory Basics room on TryHackMe, I gained foundational knowledge of Active Directory (AD) and its key components. The room primarily focuses on understanding AD structure, users, groups, and permissions. By the end of the room, I developed hands-on skills to navigate and manipulate Active Directory in both offensive and defensive contexts.
@@ -44,15 +44,13 @@ From here we moved into Delegation: <br/>
 <img width="1431" alt="Image" src="https://github.com/user-attachments/assets/36836159-71bb-4a98-9f5e-0b3f3413192d" />
 <br />
 <br />
-Using PowerShell to administer changes at the command line:  <br/>
-<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/d857db60-3db6-454d-ad27-e329a2e038a0" />
-<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/ab8f3c02-14b2-4b59-ad5c-2ce3790ec38b" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/323ffae8-3499-47cd-82b9-87c0dbcab1d5" />
-<img width="1438" alt="Image" src="https://github.com/user-attachments/assets/b61fc52e-2f65-4958-85c7-3ecd1fc485ce" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/24e323ce-b164-45bc-8fc8-03e30e72957e" />
+Using PowerShell to administer changes at the command line, changing a users password and accessing a flag in a text file on the user sophies desktop to complete the TryHackMe challenges:  <br/>
+<img width="1433" alt="Image" src="https://github.com/user-attachments/assets/bbed1214-8667-4837-830f-5be57c2fc731" />
+<img width="1433" alt="Image" src="https://github.com/user-attachments/assets/6e119f7f-4b56-437c-92d2-c3555124106c" />
+<img width="1430" alt="Image" src="https://github.com/user-attachments/assets/c6d75b3d-efd5-4370-b4a6-627ed112ff7a" />
 <br />
 <br />
-Part three involved an additional wall mount and connections from the mount to the corresponding ports on the patch panel. Once the cabling was connected and wrangled, a web browser session was started from the Office-User console and the active connection was verified:  <br/>
+Managing computers in AD:  <br/>
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/c18cc816-8899-4a84-b981-c6dcd76d91b3" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b558af37-8b31-4e87-9f3c-20928a60732e" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/6aea7bb8-f8ef-4d12-acfb-c5c9568b101d" />
