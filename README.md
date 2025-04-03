@@ -51,14 +51,11 @@ Using PowerShell to administer changes at the command line, changing a users pas
 <br />
 <br />
 Managing computers in AD:  <br/>
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/c18cc816-8899-4a84-b981-c6dcd76d91b3" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b558af37-8b31-4e87-9f3c-20928a60732e" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/6aea7bb8-f8ef-4d12-acfb-c5c9568b101d" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/13b062f0-6ac3-47fc-8aae-3ed5e921568d" />
-<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/2b974898-01f0-4950-84ac-ebda318c3c0a" />
+<img width="1430" alt="Image" src="https://github.com/user-attachments/assets/8b411268-271e-46ab-bb91-78671a374e36" />
+<img width="1426" alt="Image" src="https://github.com/user-attachments/assets/66e89715-06a9-43d8-8b26-fb0f744ffaa4" />
 <br />
 <br />
-I also worked with connecting various devices via wireless LAN and Bluetooth. Here you can see the process of verifying an internet connection on the laptop after connecting to the network with a wireless adapter and confirming DHCP:  <br/>
+Managing Group Policies, in this case minimum password length, screen lock and access to control panel changes for various groups:  <br/>
 <img width="1439" alt="Image" src="https://github.com/user-attachments/assets/53f8abe9-7429-4dd6-acfd-3c5850c96ac5" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/8d0c8f71-ccc7-4797-be35-6745cbb49393" />
 <img width="1436" alt="Image" src="https://github.com/user-attachments/assets/e48276d2-a6ac-4961-b4a0-6b7f0df95bf4" />
