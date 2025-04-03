@@ -26,10 +26,12 @@ In the Active Directory Basics room on TryHackMe, I gained foundational knowledg
 
 <p align="center">
 A brief intro on AD and Domains followed by firing up the virtual machine: <br/>
-<img width="1248" alt="Image" src="https://github.com/user-attachments/assets/fe63ff48-ece4-4d6a-a023-58301252b749" />
+<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/a5cd0b6a-63e5-4b1a-b2a7-569c06b7879d" />
+<img width="1438" alt="Image" src="https://github.com/user-attachments/assets/d57c34f3-6f08-4b1e-9cdb-a777f66b197e" />
+<img width="1434" alt="Image" src="https://github.com/user-attachments/assets/1076c6e7-3282-4a92-ad06-682e71abb2d0" />
 <br />
 <br />
-Logical and Physical Mode Exploration:  <br/>
+Organizational Units (OU's) and Managing Users:  <br/>
 <img width="1439" alt="Image" src="https://github.com/user-attachments/assets/044931ba-3b39-41ce-aec3-1ffbc62b868b" />
 
 <img width="1435" alt="Image" src="https://github.com/user-attachments/assets/5a2195d8-3c35-4abc-b74a-64a6a1094d4e" />
