@@ -32,12 +32,12 @@ A brief intro on AD and Domains followed by firing up the virtual machine: <br/>
 <br />
 <br />
 Organizational Units (OU's) and Managing Users:  <br/>
-<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/044931ba-3b39-41ce-aec3-1ffbc62b868b" />
-
-<img width="1435" alt="Image" src="https://github.com/user-attachments/assets/5a2195d8-3c35-4abc-b74a-64a6a1094d4e" />
+<img width="1431" alt="Image" src="https://github.com/user-attachments/assets/7b2380c5-7207-45c0-8986-4f2f1f7e19cb" />
+<img width="1434" alt="Image" src="https://github.com/user-attachments/assets/58fcb512-4990-4ffa-82dc-d9c026e73e0b" />
+<img width="1435" alt="Image" src="https://github.com/user-attachments/assets/e3af073f-f5fb-41ab-afaf-c1f48a00d18e" />
 <br />
 <br />
-Once I had a feel for the interface and some of the basics, I advanced to creating a simple network. The first part of the process involved installing a patch panel into the wiring closet and running the necessary straight through copper cables. You can also see the before and after of the rack with optional cable managemnt to clean up the view of the racks: <br/>
+From here we moved into Delegation: <br/>
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/397da894-a827-4ffe-a594-bf326a081844" />
 <img width="1439" alt="Image" src="https://github.com/user-attachments/assets/e89ce022-0fd0-4078-ab9f-7d3c3001bc34" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/fc8f821f-d985-4781-9e8c-a8f7b9dc04bd" />
