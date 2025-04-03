@@ -7,6 +7,7 @@ In the Active Directory Basics room on TryHackMe, I gained foundational knowledg
 <h2>Utilities Used</h2>
 
 - Active Directory Users and Computers (ADUC): A Microsoft management tool for administering AD environments.
+- PowerShell: A powerful scripting language and automation tool used to manage and query Active Directory. Participants learn how to write PowerShell scripts to interact with AD, manage users, and automate tasks.
 - BloodHound: A tool for Active Directory enumeration and privilege escalation.
 - Nmap: Used for network scanning to detect AD services like SMB and LDAP.
 </b> 
@@ -38,14 +39,12 @@ Organizational Units (OU's) and Managing Users:  <br/>
 <br />
 <br />
 From here we moved into Delegation: <br/>
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/397da894-a827-4ffe-a594-bf326a081844" />
-<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/e89ce022-0fd0-4078-ab9f-7d3c3001bc34" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/fc8f821f-d985-4781-9e8c-a8f7b9dc04bd" />
-<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/034468db-3f28-4c98-8c01-f3e910d0f6a5" />
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/66040244-2960-4cd3-b429-0818552e6701" />
+<img width="1434" alt="Image" src="https://github.com/user-attachments/assets/b3591363-7c92-424a-89f0-bc9cdcb4ee9e" />
+<img width="1430" alt="Image" src="https://github.com/user-attachments/assets/0e37d7ab-7022-48a2-a1f2-36755fc98e12" />
+<img width="1431" alt="Image" src="https://github.com/user-attachments/assets/36836159-71bb-4a98-9f5e-0b3f3413192d" />
 <br />
 <br />
-Once the patch panel was installed I attached a wall mount in the office and connected the necessary cables to the corresponding punchdown connections in the equipment closet and organized the cabling by creating bend points:  <br/>
+Using PowerShell to administer changes at the command line:  <br/>
 <img width="1439" alt="Image" src="https://github.com/user-attachments/assets/d857db60-3db6-454d-ad27-e329a2e038a0" />
 <img width="1439" alt="Image" src="https://github.com/user-attachments/assets/ab8f3c02-14b2-4b59-ad5c-2ce3790ec38b" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/323ffae8-3499-47cd-82b9-87c0dbcab1d5" />
